@@ -1,6 +1,9 @@
-# Welcome to [Company Name]
+# Welcome to AltroStudio
 
 Hello and welcome. This repository is the starting point for all developers, creators, and partners collaborating with AltroStudio. We specialize in building innovative apps, dynamic web services, and immersive gaming experiences.
+
+<img width="1024" height="1024" alt="altro-mark-apex" src="https://github.com/user-attachments/assets/9284c1bc-7129-4c38-ab6f-9a94dd83c7a8" />
+
 
 ---
 
