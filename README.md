@@ -1,6 +1,6 @@
 # Welcome to [Company Name]
 
-Hello and welcome. This repository is the starting point for all developers, creators, and partners collaborating with [Company Name]. We specialize in building innovative apps, dynamic web services, and immersive gaming experiences.
+Hello and welcome. This repository is the starting point for all developers, creators, and partners collaborating with AltroStudio. We specialize in building innovative apps, dynamic web services, and immersive gaming experiences.
 
 ---
 
@@ -15,9 +15,9 @@ We love turning complex ideas into seamless digital realities. Our core products
 ## Tech Stack
 We actively utilize a wide range of modern technologies, including but not limited to:
 * Frontend: React, Vue.js, Next.js, Flutter
-* Backend: Node.js, Python (FastAPI/Django), Spring Boot
+* Backend: Node.js, Python (FastAPI/Django), firebase, php(MVC pattern)
 * Game Engines: Unity, Unreal Engine, Godot
-* Infrastructure: AWS, Docker, Kubernetes, GitHub Actions
+* Infrastructure: AWS, Docker, Kubernetes, GitHub Actions, vercel
 
 ---
 
@@ -31,9 +31,9 @@ If you are a new team member or an external collaborator, please follow these ge
 
 ## Contact and Support
 Got questions or want to collaborate? Feel free to reach out to us:
-* Website: [https://your-company-website.com]
-* Email: [contact@yourcompany.com]
-* Slack/Discord: [Link to your team channel]
+* Website: Still Building..
+* Email: kazinobel9807@gmail.com
+* Slack/Discord: nobel7422
 
 ---
 Happy Coding! Let's build something awesome together.
